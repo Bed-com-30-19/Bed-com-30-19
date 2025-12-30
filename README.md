@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 I am a **Computer Science education professional and software developer** with a strong foundation in **software engineering, educational technology, and applied computing**.  
-I have completed a **Bachelor of Education in Computer Science (Major: Computer Studies, Minor: Mathematics)** at the **University of Malawi** and have hands-on experience in **secondary school teaching** and **full-stack development**.
+I have completed a **Bachelor of Education in Computer Science ** at the **University of Malawi** and have hands-on experience in **secondary school teaching** and **full-stack development**.
 
 I am passionate about using technology to **enhance education, improve efficiency, and promote digital literacy**.
 
