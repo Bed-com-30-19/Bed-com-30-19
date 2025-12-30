@@ -16,7 +16,7 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22"/> Professional Summary
 I am a **Computer Science education professional and software developer** with a strong background in **software engineering, applied computing, and secondary school teaching**.  
-I have completed a **Bachelor of Education in Computer Science (Major: Computer Studies, Minor: Mathematics)** at the **University of Malawi**, with practical experience delivering learner-centred and technology-driven instruction.
+I have completed a **Bachelor of Education in Computer Science** at the **University of Malawi**, with practical experience delivering learner-centred and technology-driven instruction.
 
 My focus is on leveraging technology to **enhance education, promote digital literacy, and develop practical software solutions**.
 
