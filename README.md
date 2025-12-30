@@ -1,73 +1,72 @@
-<!-- Profile Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=120&section=header&text=Arnold%20Justin%20Muleke&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F4E79&height=110&section=header&text=Arnold%20Justin%20Muleke&fontSize=36&fontColor=ffffff" />
 </p>
 
 <h3 align="center">Computer Science Educator | Software Developer</h3>
 
 <p align="center">
   <a href="mailto:justinmuleke@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Professional-blue?style=flat&logo=gmail">
   </a>
-  <img src="https://img.shields.io/badge/Location-Malawi-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Malawi-Based-1F7A1F?style=flat">
 </p>
 
+<hr/>
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="22"/> Professional Summary
+I am a **Computer Science education professional and software developer** with a strong background in **software engineering, applied computing, and secondary school teaching**.  
+I have completed a **Bachelor of Education in Computer Science (Major: Computer Studies, Minor: Mathematics)** at the **University of Malawi**, with practical experience delivering learner-centred and technology-driven instruction.
+
+My focus is on leveraging technology to **enhance education, promote digital literacy, and develop practical software solutions**.
+
 ---
 
-## 👋 About Me
-I am a **Computer Science education professional and software developer** with a strong foundation in **software engineering, educational technology, and applied computing**.  
-I have completed a **Bachelor of Education in Computer Science ** at the **University of Malawi** and have hands-on experience in **secondary school teaching** and **full-stack development**.
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="22"/> Technical Competencies
 
-I am passionate about using technology to **enhance education, improve efficiency, and promote digital literacy**.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming & Development
+### Software Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,nestjs,flutter,androidstudio" />
 </p>
 
-### 🗄️ Databases & Tools
+### Databases & Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode" />
 </p>
 
 ---
 
-## 🎓 Areas of Interest
-- Full Stack Software Development  
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/> Areas of Professional Interest
+- Full Stack Software Engineering  
 - Mobile Application Development (Android & Flutter)  
-- Web Applications & APIs  
-- Database Design & Administration  
-- Educational Technology & Digital Learning Systems  
-- Graphic Design & Creative Digital Solutions  
+- Web Applications and RESTful APIs  
+- Database Design and Administration  
+- Educational Technology Systems  
+- Digital Content and Graphic Design  
 
 ---
 
-## 📚 Currently Improving Skills In
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22"/> Skills Development Focus
 - Advanced Flutter & Cross-Platform Development  
-- Cloud Computing (AWS, Azure)  
-- Fundamentals of Machine Learning  
+- Cloud Computing Technologies (AWS, Azure)  
+- Foundations of Machine Learning  
 
 ---
 
-## 🤝 Open to Collaboration
-I’m interested in collaborating on:
-- Open-source projects  
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/> Collaboration Interests
+- Open-source software projects  
 - Educational platforms and school systems  
-- Practical applications solving real-world problems  
-- Technology initiatives with social or educational impact  
+- Practical technology solutions for real-world challenges  
+- Technology initiatives with educational or social impact  
 
 ---
 
-## 📫 Contact
-- **Email:** [justinmuleke@gmail.com](mailto:justinmuleke@gmail.com)
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/> Contact
+- **Email:** [justinmuleke@gmail.com](mailto:justinmuleke@gmail.com)  
 - **Pronouns:** He/Him  
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bed-com-30-19&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bed-com-30-19&show_icons=true&hide_title=true&theme=default" />
 </p>
